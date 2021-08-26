@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "event": "Walk with us",
+      "body": "A tour through the hills and valleys of kisii highlands to the manga region for three days, then a camping at Gucha on the final hiking day",
+      "date": "26/10/2021",
+      "id": 1
+    },
+    {
+      "event": "Tembea Kenya",
+      "body": "Have a greater experience of the green land of Kenya. Start your journey at the Taita Hills in taita taveta county",
+      "date": "31/11/2021",
+      "id": 2
+    },
+    {
+      "event": "Maasai Mara Game drive",
+      "body": "Maasai Mara Game Reserve offers you happy memories with your loved ones. The game drive offered by Simba Safaris will be one of the best in your exeperiences.",
+      "date": "11/12/2021",
+      "id": 3
+    },
+    {
+      "event": "Ngong' Walk",
+      "body": "Lolcated in the capital city of Kenya, Ngong' Forest offers a great adventure for many people in the city who will love to walk through the green bushes up to ngong' hills",
+      "date": "31/12/2021",
+      "id": 4
+    }
+  ]
+}
